@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 150px ;
+}
+
+.nav-title{
+    font-weight:800 ;
+    font-size: 28px;
+}
+
+nav ul li {
+    list-style: none;
+
+}
+.btn-primary{
+    padding: 17px 24px;
+    background-color: white;
+    color: #0D1321;
+    border-radius: 8px;
+}
