@@ -61,4 +61,40 @@ nav ul li {
     color: white;
     border-radius: 8px;
 }
+.text-center{
+    text-align: center;
+    margin: 245px 249px;
+}
+.second-head{
+    font-weight: bolder;
+    font-size:32px ;
+    text-align: center;
+}
+.second-para{
+    text-align: center;
+    
+}
+.second{
+    max-width: 852px;
+    margin: 0 auto;
+}
+
+.why{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 250px 0 400px;
+    padding: 48px;
+    max-width: 946px;
+}
+
+.why-title{
+font-weight: bold;
+font-size: 24px;
+}
+.why-pic{
+    width: 275px;
+}
+
+    
+
 
