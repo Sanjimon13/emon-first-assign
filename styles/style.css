@@ -86,7 +86,7 @@ nav ul li {
 .why{
     display: flex;
     justify-content: space-between;
-    margin: 0 250px 0 400px;
+    margin: 0 auto;
     padding: 48px;
     max-width: 946px;
     text-align: center;
