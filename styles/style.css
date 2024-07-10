@@ -26,6 +26,10 @@ nav ul li {
     list-style: none;
 
 }
+.ultra-main{
+   
+    margin: 0 auto;
+}
 .btn-primary{
     padding: 17px 24px;
     background-color: white;
@@ -48,6 +52,7 @@ nav ul li {
 }
 .img{
    margin: 26px 800px;
+   text-align: center;
 }
 .banner{
     background-image: url('../assets/Hero-bg.png');
@@ -78,13 +83,13 @@ nav ul li {
     max-width: 852px;
     margin: 0 auto;
 }
-
 .why{
     display: flex;
     justify-content: space-between;
     margin: 0 250px 0 400px;
     padding: 48px;
     max-width: 946px;
+    text-align: center;
 }
 
 .why-title{
@@ -95,6 +100,33 @@ font-size: 24px;
     width: 275px;
 }
 
-    
+.add-video{
+text-align: center;
+}
+main{
+    max-width:1140px ;
+    margin: 0 auto;
+}
 
+.target4{
+    display: flex;
+    gap: 24px;
+    padding: 40px;
+}
+.target9{
+    max-width: 946px;
+    margin: 0 auto;
+    text-align: center;
+}
+    
+.last{
+    display: flex;
+  background-color: antiquewhite;
+    border-radius: 12px;
+    padding:24px ;
+}
+.img2{
+    width: 95px;
+    padding:55px 40px ;
+}
 
